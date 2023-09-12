@@ -1,2 +1,2 @@
-# GitMarxs
-Browser plugin to sync github book marks
+# lnkdocs.github.io
+Documentation for lnkdocs
